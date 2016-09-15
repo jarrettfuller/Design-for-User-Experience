@@ -58,3 +58,9 @@ nav {
     .syllabus {
         display: block;
     }
+    .syllabus h3 {
+        width: 100%;
+    }
+    .class {
+        width: 50%;
+    }
